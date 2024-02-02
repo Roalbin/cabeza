@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U1Jh/K/ZExK3IpZAWpbDEnEjda6iP5Z5UQKECLzCvhKUMJW/qYBbWf17QYmQ+qM3N6U9jaSRgpjTqcXbE1dJNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\cabeza-master\\cabeza\\cabeza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
